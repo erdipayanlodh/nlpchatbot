@@ -3,6 +3,15 @@
 An AI-powered college chatbot built using **Python, Flask, TensorFlow, NLTK, and MySQL**. The chatbot answers common college-related queries such as faculty information, admissions, courses, departments, and other frequently asked questions through a simple web interface.
 
 ---
+## 📊 Internship Report
+
+The complete internship report explaining the project architecture, implementation, methodology, and results can be accessed here:
+
+**📄 Internship Report**
+
+https://drive.google.com/file/d/1_V6UO89tJXj4qj62PLCmkMTEdbdPp-1i/view?usp=sharing
+
+---
 
 ## 🚀 Features
 
